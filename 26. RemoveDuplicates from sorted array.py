@@ -17,3 +17,4 @@ class Solution(object):
                 insert_pos+=1
 
         return insert_pos
+
